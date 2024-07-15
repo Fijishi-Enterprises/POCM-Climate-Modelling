@@ -8,14 +8,6 @@ climlab
  Python package for process-oriented climate modeling
 -----------------------------------------------------
 
-Author
-------
-| **Brian E. J. Rose**
-| Department of Atmospheric and Environmental Sciences
-| University at Albany
-| brose@albany.edu
-
-
 About climlab
 --------------
 ``climlab`` is a flexible engine for process-oriented climate modeling.
@@ -299,41 +291,3 @@ The documentation_ was first created by Moritz Kreuzer
 .. _`The Climate Laboratory`: https://brian-rose.github.io/ClimateLaboratoryBook/
 .. _`attrdict package`: https://github.com/bcj/AttrDict
 .. _`Brendan Curran-Johnson`: https://github.com/bcj
-
-
-Contact and Bug Reports
------------------------
-Users are strongly encouraged to submit bug reports and feature requests on
-github at https://github.com/climlab/climlab
-
-
-License
----------------
-This code is freely available under the MIT license.
-See the accompanying LICENSE file.
-
-.. |JOSS| image:: http://joss.theoj.org/papers/10.21105/joss.00659/status.svg
-   :target: https://doi.org/10.21105/joss.00659
-.. |pypi| image:: https://badge.fury.io/py/climlab.svg
-   :target: https://badge.fury.io/py/climlab
-.. |Build Status| image:: https://github.com/climlab/climlab/actions/workflows/build-and-test.yml/badge.svg
-    :target: https://github.com/climlab/climlab/actions/workflows/build-and-test.yml
-.. |coverage| image:: https://codecov.io/github/climlab/climlab/coverage.svg?branch=main
-   :target: https://codecov.io/github/climlab/climlab?branch=main
-.. |DOI| image:: https://zenodo.org/badge/24968065.svg
-   :target: https://zenodo.org/badge/latestdoi/24968065
-.. |docs| image:: http://readthedocs.org/projects/climlab/badge/?version=latest
-   :target: http://climlab.readthedocs.io/en/latest/intro.html
-   :alt: Documentation Status
-.. _`climlab-rrtmg`: https://github.com/climlab/climlab-rrtmg
-.. _`climlab-cam3-radiation`: https://github.com/climlab/climlab-cam3-radiation
-.. _`climlab-emanuel-convection`: https://github.com/climlab/climlab-emanuel-convection
-
-=======
-
-
-Support
------------------
-Development of ``climlab`` is partially supported by the National Science Foundation under award AGS-1455071 to Brian Rose.
-
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
